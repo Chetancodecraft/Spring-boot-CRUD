@@ -71,9 +71,5 @@ mvn spring-boot:run
 - **Method:** DELETE
 - **Endpoint:** `/students/delete/{id}`
 
-## Contribution
-Feel free to fork the repository and contribute by creating a pull request.
 
-## License
-This project is open-source and available under the MIT License.
 
